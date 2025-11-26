@@ -132,6 +132,15 @@ Or manually:
 
     pip install streamlit google-genai python-dotenv pyttsx3 SpeechRecognition PyAudio dotenv
 
+Install PyAudio (Windows):
+
+Download correct wheel for your Python version:
+
+    https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+
+    pip install PyAudio-0.2.13-cp312-cp312-win_amd64.whl
+
+
 Step 4 — Create .env File
 
     GEMINI_API_KEY=your_api_key_here
