@@ -5,7 +5,9 @@ Google Gemini API, Speech Recognition, and Offline Text-to-Speech.
 This app simulates a real interview experience with voice input, dynamic
 interview flow, adaptive hints, and a final performance report.
 
-
+Environment:-
+Os - macos Sequoia 15.5
+Python - Python 3.12 (Stable Version)
 
 Table of Contents :-
 
